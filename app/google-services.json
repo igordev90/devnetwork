@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "520734645562",
+    "project_id": "devnetwork-86f6e",
+    "storage_bucket": "devnetwork-86f6e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:520734645562:android:cb1136070c6430440b4403",
+        "android_client_info": {
+          "package_name": "com.devnetwork.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOnMfwMDSqFqNKqydnXfTC3K4OB9kHjTA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
