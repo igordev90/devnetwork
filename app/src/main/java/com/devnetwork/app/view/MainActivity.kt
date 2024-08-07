@@ -29,7 +29,7 @@ import dagger.hilt.android.AndroidEntryPoint
 
 @AndroidEntryPoint
 class MainActivity : ComponentActivity() {
-    //Dev version
+    //Test version
     private val authViewModel: AuthViewModel by viewModels()
     private val mainViewModel:MainViewModel by viewModels()
     override fun onCreate(savedInstanceState: Bundle?) {
